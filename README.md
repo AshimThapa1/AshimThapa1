@@ -1,4 +1,4 @@
-## Robot Package Template
+## Robot Package Template made my Josh Newans and I am just using it for study purpose.
 
 This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
 
